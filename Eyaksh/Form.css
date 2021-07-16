@@ -1,0 +1,74 @@
+body{
+    
+    
+    background-color: rgb(122, 219, 219);
+    align-self: center;
+    align-content: center;
+}
+#Header{
+    color: rgb(55, 0, 255);
+    text-align: center;
+    width: 100%;
+    text-decoration-color: aqua;
+    align-content: center;
+}
+#head2{
+    text-align: center;
+    color: rgb(233, 155, 10);
+}
+#container{
+    height: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+table {
+    background-image: url("http://st.depositphotos.com/1011643/2347/i/450/depositphotos_23475264-female-nurse-holding-tablet-computer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+    align-self: center;
+}
+td{
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+    align-self: center;
+    padding: 2%;
+}
+#button{
+    align-content: center;
+    
+}
+footer{
+    align-self: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+#button2{
+    
+   transition: transform 2s;
+    color: rgb(130, 14, 238);
+
+}
+#button2:hover{
+    transform: scale(1.2);
+}
+#button3{
+        transition: transform 2s;
+     color: rgb(130, 14, 238);
+ 
+ }
+ #button3:hover{
+     transform: scale(1.2);
+ }
+h4{
+    color: black;
+}
